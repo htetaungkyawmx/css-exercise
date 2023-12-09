@@ -1,0 +1,21 @@
+*{
+    color: red;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: pink;
+}
+.example {
+    color: orange;
+}
+.example2 {
+    background: black;
+}
+.example.example2 {
+    font-size: 50px;
+}
+#example {
+    font-size: 100px;
+}

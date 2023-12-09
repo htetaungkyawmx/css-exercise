@@ -1,0 +1,22 @@
+
+
+section{
+    font-family: sans-serif;
+    font-size: 30px;
+    color: orange;
+}
+*{
+    color: lightblue;
+}
+p{
+    color: green!important;
+}
+.example{
+    color: black;
+}
+#example{
+    color: purple;
+}
+section p{
+    color: lightgreen;
+}
